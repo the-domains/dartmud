@@ -1,0 +1,28 @@
+name: DartMUD
+favicon: null
+layout_spectrum: 0.6785957305692136
+typography_spectrum: 0.1292377666104585
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.1438266730401665
+  lightness: 0.003541272599250078
+  saturation: 0.8664715364575386
+  rhythmicContrast: 0.4611404419410974
+purpose: []
